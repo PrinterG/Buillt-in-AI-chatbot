@@ -1,5 +1,5 @@
 # Buillt-in-AI-chatbot
-no API needed, functions on your machine
+no API needed, runs on your directory
 
 Dependencies:
 Ollama
@@ -11,5 +11,4 @@ Steps:
 2. open command promt and type: " Ollama pull Llama3 "
 3. create a python environment
 4. install langchain, Ollama, langchain_ollama: " pip install -r req.txt "
-5. import required classes
-6. execute the code
+5. the code shoul run
